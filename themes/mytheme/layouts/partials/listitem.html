@@ -1,0 +1,21 @@
+<li class="list-item">
+    <a class="blog-title" href="{{ .RelPermalink }}">
+			{{ .Title }}
+	</a>
+
+	<div class="blog-description">
+		{{ if .PublishDate }}
+		<p class="blog-date">
+			[{{ time.Format "January 2, 2006" .PublishDate }}]
+		</p>
+		{{ end }}
+		
+		{{ if .Params.Tags }}
+		<p class="blog-tags">Tags: {{ partial "tags.html" . -}}</p>
+		{{ end }}
+	
+		{{ if .Summary }}
+		<p class="blog-summary">{{ .Summary | strings.Truncate 150 }}</p>
+		{{ end }}
+	</div>
+</li>

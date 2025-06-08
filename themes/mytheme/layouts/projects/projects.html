@@ -1,0 +1,7 @@
+{{ define "main" }}
+	<ul class="blogs-list">
+		{{ range .Pages.ByWeight }}
+			{{- partial "project-page/listitem.html"  . -}}
+		{{ end }}
+	</ul>
+{{ end }}

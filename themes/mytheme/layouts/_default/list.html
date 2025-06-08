@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<ul class="blogs-list">
+		{{ range .Data.Pages.GroupByDate "2006-01" }}
+			<h3 id="{{ dateFormat "Jan06" (printf "%s-01" .Key)}}" class="blogs-list-date">{{ dateFormat "January 2006" (printf "%s-01" .Key) }}</h3>
+			
+			{{ range .Pages }}
+				{{- partial "listitem.html"  . -}}
+			{{ end }}
+		{{ end }}
+	</ul>
+{{ end }}

@@ -1,0 +1,3 @@
+{{ range .Params.tags }}
+  <a class="blog-tag" href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>
+{{ end }}

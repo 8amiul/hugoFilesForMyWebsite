@@ -1,0 +1,16 @@
+<nav class="navbar">
+	<span class="header-title">{{ .Site.Title }}</span>
+	<ul class="link-list">
+		{{ range .Site.Menus.main }}
+		<li class="link"><a href="{{ .URL }}">{{ .Name }}</a></li>
+		{{ end }}
+	</ul>
+</nav>
+
+<nav class="navbar-phone">
+	<ul class="navbar-list">
+	{{ range .Site.Menus.main }}
+	<li class="navbar-list-links"><a href="{{ .URL }}">{{ .Name }}</a></li>
+	{{ end }}
+	</ul>
+</nav>

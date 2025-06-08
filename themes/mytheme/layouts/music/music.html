@@ -1,0 +1,59 @@
+{{ define "main" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}static/styles/style.css">
+    <div class="music-player">
+        <img id="musicAlbum-cover">
+        <div class="music-player-description">
+            <p class="musicTitle"></p>
+            <p class="musicArtist"></p>
+            <p class="musicAlbum"></p>
+        </div>
+        <div class="music-player-middle">
+            <p class="musicVolume">Vol: </p>
+            <p class="musicTime"></p>
+        </div>
+
+        <input id="volume-slider" type="range">
+
+        <div class="music-player-buttons">
+
+            <div class="music-player-upper-buttons">
+                <button id="shuffle" type="button">
+                    <img src="static/svg/shuffle.svg">
+                </button>
+                <button id="repeat" type="button">
+                    <img src="static/svg/repeat.svg">
+                </button>
+            </div>
+
+            <button id="music-rewind" type="button">
+                <img src="static/svg/play-back.svg">
+            </button>
+            <button id="music-previous" type="button">
+                <img src="static/svg/play-skip-back.svg">
+            </button>
+            <button id="music-pause" type="button">
+                <img class="play-pause-svg" src="static/svg/play.svg">
+            </button>
+            <button id="music-next" type="button">
+                <img src="static/svg/play-skip-forward.svg">
+            </button>
+            <button id="music-forward" type="button">
+                <img src="static/svg/play-forward.svg">
+            </button>
+        </div>
+
+        <input id="progress-slider" type="range">
+
+        <div class="music-list-container">
+            <button class="list-toggle-btn" type="button">
+                <img class="list-toggle-btn-svg" src="static/svg/chevron-down.svg">
+            </button>
+            <ul class="music-list">
+            <!-- <li><button type="button" class="music-list-item">x</button></li> -->
+            </ul>
+        </div>
+    </div>
+    <script src="static/js/jsmediatags.min.js"></script>
+    <script src="static/js/music_src.js"></script>
+    <script src="static/js/script.js"></script>
+{{ end }}

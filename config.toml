@@ -1,0 +1,50 @@
+languageCode = 'en-us'
+title = "8amiul's Webpage"
+description = "I am Samiul Islam. A 19 year old college student from Bangladesh. I like computers, technology, programming, cybersecurity and listening to music. I also find crime analysis, history and conspiracy theories interesting. Open world video games are something that I enjoy. Finally I am just a guy who likes to tinker with operating systems, programs and devices. And yes, minimalism is what I pursue."
+theme = 'mytheme'
+baseurl = "https://8amiul.github.io"
+
+[params]
+    favAlbum.title = "Made In Germany"
+    favAlbum.cover = "/images/music-album.jpg"
+    author = "8amiul"
+
+
+[outputFormats]
+[outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
+
+
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 2
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 3
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 4
+   [[menus.main]]
+    name = 'Images'
+    pageRef = '/images'
+    weight = 5
+   [[menus.main]]
+    name = 'Music'
+    pageRef = '/music'
+    weight = 6
+   
+  [[menus.main]]
+    name = 'Bookmarks'
+    pageRef = '/bookmarks'
+    weight = 7

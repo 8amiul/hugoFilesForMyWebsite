@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="blog-post">
+	
+	<div class="blog-post-info">
+		<h2	class="post-title">{{ .Title }}</h2>
+		{{ if .Date }}
+		<p class="post-description">{{ time.Format "January 2, 2006" .PublishDate }}</p>
+		{{ end }}
+
+		{{ if .Params.Tags }}
+			Tags: {{- partial "tags.html" . -}} 
+		{{ end }}
+	</div>
+
+	<div class="post-content">{{ .Content }}</div>
+</div>
+{{ end }}

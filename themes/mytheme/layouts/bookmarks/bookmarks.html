@@ -1,0 +1,25 @@
+{{ define "main" }}
+<style>
+    .blog-post {
+        font-family: "VT323" !important;
+    }
+</style>
+
+<div class="blog-post">
+    <div class="blog-post-info">
+        <h2	class="post-title">{{ .Title }}</h2>
+    </div>
+
+    <div class="post-content bookmarks-content">
+        {{ .Content }}
+    </div>
+</div>
+
+<script>
+    const anchors = document.querySelectorAll('div.bookmarks-content a');
+    anchors.forEach(anchor => {
+      anchor.setAttribute('target', '_blank');
+    });
+</script>
+{{ end }}
+

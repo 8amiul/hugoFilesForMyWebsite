@@ -1,0 +1,17 @@
+<script src="/images/img-description.js"></script>
+<div class="scroll-container">
+    {{ range first 1 .Site.RegularPages.ByDate.Reverse }}
+        <span class="scroll-text">
+                New blog post -> [{{  time.Format "2 Jan 2006" .Date }}] <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </span> 
+    {{ end }}
+    <script>
+        image_updates = document.querySelector(".scroll-text");
+        latest_image = images.slice(-1)[0]
+       
+        if (latest_image["description"].split(" ").length > 5)
+            image_updates.innerHTML += "&nbsp;".repeat(50) + "New image post -> " + "[" + latest_image["date"] + "]" + " " + '<a href="/images">' +  latest_image["description"].split(' ').slice(0, 5).join(" ") + "&nbsp;..." + "</a>"
+        else
+            image_updates.innerHTML += "&nbsp;".repeat(50) + "New image post -> " + "[" + latest_image["date"] + "]" + " " + '<a href="/images">' +  latest_image["description"] + "</a>"
+    </script>
+</div>

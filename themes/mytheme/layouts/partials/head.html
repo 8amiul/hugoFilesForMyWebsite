@@ -1,0 +1,29 @@
+<head>
+      <meta name="google-site-verification" content="RdYDKREj2QfSVMxq1OLSfPFC2sOpiblG7pD4X2IhMUk" />
+      <meta charset="utf-8">
+      <meta name="description" content=" I am Samiul Islam. A 19 year old college student from Bangladesh. I like computers, technology, programming, cybersecurity and listening to music. I also find crime analysis, history and conspiracy theories interesting. Open world video games are something that I enjoy. Finally I am just a guy who likes to tinker with operating systems, programs and devices."> 
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" type="text/css" href="/styles/style.css">
+      <link rel="stylesheet" type="text/css" href="/styles/header.css">
+      <link rel="stylesheet" type="text/css" href="/styles/footer.css">
+      <link rel="stylesheet" type="text/css" href="/styles/homepage.css">
+      <link rel="stylesheet" type="text/css" href="/styles/blogs.css">
+      <link rel="stylesheet" type="text/css" href="/styles/small-disp.css">
+      <link rel="stylesheet" type="text/css" href="/styles/colors.css">
+
+      <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+      <script>
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        OneSignalDeferred.push(async function(OneSignal) {
+          await OneSignal.init({
+            appId: "20b6f12e-9b80-4507-8b62-6f986d8fb39c",
+          });
+        });
+      </script>
+
+      {{ if .IsHome }}
+        <title>{{ .Title }}</title>
+      {{ else }}
+        <title>{{ .Title }} | {{ .Site.Title }}</title>
+      {{ end }}
+</head>

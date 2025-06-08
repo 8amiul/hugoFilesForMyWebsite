@@ -1,0 +1,16 @@
+<li class="list-item">
+    <a class="blog-title" href="{{ .RelPermalink }}">
+			{{ .Title }}
+	</a>
+
+	<div class="blog-description">
+		
+		{{ if .Params.Description }}
+		<p class="blog-summary">{{ .Params.Description }}</p>
+		{{ end }}
+
+		<a href="{{ .Params.videoLink }}" target="_blank">
+			<img class="project-cover" src="{{ .RelPermalink }}cover.webp">
+		</a>
+	</div>
+</li>

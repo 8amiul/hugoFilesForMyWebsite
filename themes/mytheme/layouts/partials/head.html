@@ -11,16 +11,6 @@
       <link rel="stylesheet" type="text/css" href="/styles/small-disp.css">
       <link rel="stylesheet" type="text/css" href="/styles/colors.css">
 
-      <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-      <script>
-        window.OneSignalDeferred = window.OneSignalDeferred || [];
-        OneSignalDeferred.push(async function(OneSignal) {
-          await OneSignal.init({
-            appId: "20b6f12e-9b80-4507-8b62-6f986d8fb39c",
-          });
-        });
-      </script>
-
       {{ if .IsHome }}
         <title>{{ .Title }}</title>
       {{ else }}

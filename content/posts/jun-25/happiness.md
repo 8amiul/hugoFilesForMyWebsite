@@ -19,5 +19,5 @@ Trying to save daily realizations and things I go through.
 
 - Happiness is when I can let things go and assume my next step. [04/07/25]
 
-- Happiness is when they leave me obliterated and then I sleep the reminiscence away.  [06/07/25]
+- Happiness is when I sleep the reminiscence away.  [06/07/25]
 

@@ -13,9 +13,29 @@ Well, at least it has been postponed. But at 3:00 AM? Just a few hours before th
 
 Today one of the worst catastrophes has occurred. Taking lives of many children. How many of them have been freed from this cruel country? The number is knowingly unknown. What makes me more sad is that they were just kids studying in class 3-4. Moreover, many other people also died with them. Most of them wanted to save this children. If they lived then those were to see the cruelty of us and our nation. A teacher burned herself just to save her students. It made me upset a lot. That's the only heroic act I currently can remember with sleep in my eyes. There are a lot of things to discuss about this incident. It was indeed terrific. Sorry for not being so descriptive here. Whatever, there were kids in that class room, sitting on those benches, sadly they don't look human anymore. They didn't even get to react to the heat of a jet plane crash.
 
-It makes me sad to look at their parents. How can they accept the murders of those innocent children? Yes, I said murder. A young Flight Lieutenant, a valuable soul of this country, is a victim to this incident too. He also got murdered along with those innocent people. Murdered by whom? I don't know or even I know I won't say or can't say.
+It makes me sad to look at their parents. How can they accept the murders of those innocent children? Yes, I said murder. A young Flight Lieutenant, a valuable soul of this country, is a victim to this incident too. He also got murdered along with those innocent people. I don't know what happened their and can't blindly blame him for this or won't even lionize blindly. Blaming him is not be smartest thing to do here. Either way he had to crash somewhere but I don't know why he had to crash into a school. At least kill try not to kill children by crashing into a school! Yeah, that creates a confusion. And, this confusion will never be cleared as they will never disclose the actual truth!
 
 I don't have anymore energy left after watching the incident and clownery of our nation. I just want to blame this nation for killing those innocent children and people. The pointer points to use somehow. If you think deeply then you will know that we actually are the reason for this. We let it happen. We never stood against it before it could happen. We know it would happen or at least they know. But what? They let it happen.
 
 We never were good and never will be. We never learned a lesson and never will be learning.
 We are meant to be oppressed. We are meant to be dead.
+
+
+#UPDATE - 07/22/25 [11:00 AM]
+
+I just woke up and like usual I opened Facebook. I know it is pretty bad. I saw many things happening. Some students are enjoying like nothing happened yesterday as their demand got full filled. But some are also protesting and demanding the fulfillment of their 6 points. Org did a nice play to make us forget that something has happened. It is just a mind game they want to play, right? Why they had to beat students there when they, students, tried to express the death toll and describe the incident? Why they are acting like them who did the same thing last year. Have they forget that this nation might be dumb but can easily kick asses if they are aroused? Why the media don't speak the truth? Media were always with them where they were supposed to be with the mass people. Last year they only said that just a few people were murdered. Which was the worst possible lie we have ever heard. I hope they don't recreate the same thing again. Their works are not maintained and they must be liable for that act. But they are trying to enclose this incident as nothing so crucial has happened.
+
+I never was a big fan of writing things about our society. I believe it is either a big waste of time if you can't earn from it or if you can make it beneficial then yes do it. Yesterday one thing made me laugh a lot. Which is a random Facebook page claimed they were the real Anonymous hacktivist group. They, few days ago, coincidentally said that a school building would collapse due to its architectural faults. But yesterday a jet plane crashed into the school in our country. So using this as a tool they claim that they were predicting that and sought attention of us, Bangali people. Whenever I saw this shit, it made laugh so badly. It was obvious that a group of people would not be so naive to use facebook to spread their intel. Which hacktivist group uses the zucc's bait? It feels like OPSEC is nothing to them. Moreover, that so called Anonymous group also claimed that something more serious will happen like bombing around the city. Hah, now they started mentioning the country's name so suddenly. I know it is a very funny crap one dumbo can pull to freak a whole country social media users.
+
+### So things in short
+- Due to the authorities fault many innocent people had to give their life
+- Huge population visited that place like a it became a tourist spot.
+- Burned kid moving aimlessly as he got nobody to help him even where people were there but instead helping they chose to record him on phone
+- 2L water bottle can even price up to 600 taka!
+- Teachers, parents and many other people died to save those juveniles.
+- Some people used this incident to fill their pockets
+- One group is trying to reduce the accusations as much as possible
+- I live in a country where a board exam hasn't still postponed even after the city faced a disaster
+- Many more things I want to mention but I can't because nobody know what happens next. 
+
+Nah, I ain't gonna talk about our society anymore. We know what we are and we know what we will be. Just let it happen. Soon either a jet plane or better call it a 'ভাঙ্গারি' will crash into me or I will be made disappeared like I never existed.

@@ -111,5 +111,14 @@ let images = [
         img: "idkman.png",
         date: "25 May 2025 | 6:06 PM",
         description: "Another Skyrim run."
-    }
+    },
+	{
+		img: "esp32.gif",
+		date: "08 Aug 2025 | 5:09 PM",
+		description: 
+		`
+			Ayoo! It has been 2 months not posting here! Prolly, subdued that phase of life which everyone faces once in a while. Blah blah... So, I've started working with electronics :D.
+			Tinkering with this thing is so satisfying (sometimes annoying). I guess, that's my first... idk what exactly it does. But, look at that saturn spinning! Used ESP32, 128x64 OLED DISP. ICD2IMG for bitmap and some basic loops.
+		`
+	}
 	]

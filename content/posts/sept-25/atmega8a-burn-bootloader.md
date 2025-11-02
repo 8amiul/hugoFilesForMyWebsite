@@ -53,7 +53,9 @@ Better we get an arduino nano and use that as an isp programmer.
 
 ## Common Errors
 ### Error 1
-```bash
+
+{{< rawhtml >}}
+<pre style="font-size: 1rem; align-self: center; background-color: #422c2c;padding: 1rem; max-width: 90%; white-space: pre-wrap; word-wrap: break-word; margin-bottom: 1rem;">
 Warning: attempt 1 of 10: not in sync: resp=0x15
 Warning: attempt 2 of 10: not in sync: resp=0x15
 
@@ -65,16 +67,19 @@ Error: initialization failed  (rc = -3)
  - use -F to override this check
 Error: protocol expects sync byte 0x14 but got 0x01
 Failed chip erase: uploading error: exit status 1
-```
+</pre>
+{{< /rawhtml >}}
 
 - Check whether the wiring is correct and connections fine or not using a multimeter.
 - Check correct board and port is selected or not.
 - Hold Arduino Nano Reset button manually for a second, after hitting burn bootloader/Upload Using programmer.
 
 ### Error 2
-```bash
+{{< rawhtml >}}
+<pre style="font-size: 1rem; align-self: center; background-color: #422c2c;padding: 1rem; max-width: 90%; white-space: pre-wrap; word-wrap: break-word; margin-bottom: 1rem;">
 Error: expected signature for ATmega8 is 1E 93 07 - double check chip or use -F to carry on regardless Failed programming: uploading error: exit status 1
-```
+</pre>
+{{< /rawhtml >}}
 
 - Put pressure on ATmega8a with your fingers so that the pins are set perfectly on the breadboard.
 - If still it fails then keep holding ATmega8a and try uploading.  

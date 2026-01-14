@@ -187,6 +187,24 @@ These are my bookmarks in browser!
 - https://www.perplexity.ai/
 - https://you.com/
 - https://theresanaiforthat.com/
-- https://codeforces.com/problemset?order=BY_RATING_ASC
 - https://visceracannon.bandcamp.com/album/hymns
 - https://habibrahman.me/assets/pdfs/refresh-cpp_stl-v1.0.0.pdf
+
+# [UPDATE] 01 Jan 2026
+
+- http://ciembor.github.io/4bit/
+- https://realfavicongenerator.net/
+- https://www.keybr.com/
+- https://doxbin.com/home
+- https://imagetopixelart.net/
+- https://tezumie.github.io/Image-to-Pixel/
+- https://color.adobe.com/
+- https://rentry.co/
+- https://neocities.org/
+- https://skipster1337.github.io/posts/windows-software.html
+- https://typealias.com/start/
+- https://whatsmyname.app/
+- https://www3.ntu.edu.sg/home/ehchua/programming/index.html
+- https://cs.rin.ru/forum/
+- https://fullstackopen.com/en/
+- https://www.nperf.com/en/

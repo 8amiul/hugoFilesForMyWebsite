@@ -208,3 +208,21 @@ These are my bookmarks in browser!
 - https://cs.rin.ru/forum/
 - https://fullstackopen.com/en/
 - https://www.nperf.com/en/
+
+# [UPDATE] 22 Mar 2026
+
+- https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
+- https://www.netacad.com/
+- https://calculusmadeeasy.org/
+- https://tutorial.math.lamar.edu/
+- https://microcorruption.com/map
+- https://niloyahsan1.github.io/studyhelp/index.html
+- https://www.electronics-tutorials.ws/
+- https://librarygenesis.net/
+- https://www.reddit.com/r/Piracy/wiki/megathread/
+- https://wokwi.com/
+- https://www.nand2tetris.org/
+- https://www.allaboutcircuits.com/
+- https://open.spotify.com/
+- https://www.photopea.com/
+- https://monkeytype.com/

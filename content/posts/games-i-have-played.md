@@ -5,6 +5,8 @@ draft: false
 tags: ["gaming"]
 ---
 
+## Just visit my [Backloggd](https://bckl.gg/ppvA) for the latest ones listed
+
 ### Games I have completed
 Grand Theft Auto V
 

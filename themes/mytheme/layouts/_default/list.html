@@ -32,23 +32,38 @@
         {{ end }}
     </ul>
 
-    {{ $p := $paginator }}
-    <nav class="pagination">
-        {{ if $p.HasPrev }}
-            <a href="{{ $p.Prev.URL }}">&larr; Prev</a>
-        {{ end }}
+{{ $p := $paginator }}
+<nav class="pagination blog-pagination">
+    {{ if $p.HasPrev }}
+        <a href="{{ $p.Prev.URL }}">&larr;</a>
+    {{ end }}
 
-        {{ range $p.Pagers }}
+    {{ range $p.Pagers }}
+        {{ $pageNum := .PageNumber }}
+        {{ $current := $p.PageNumber }}
+        {{ $total := $p.TotalPages }}
+
+        {{ if or
+            (eq $pageNum 1)
+            (eq $pageNum $total)
+            (and (ge $pageNum (sub $current 1)) (le $pageNum (add $current 1)))
+        }}
             {{ if eq . $p }}
-                <span class="active">{{ .PageNumber }}</span>
+                <span class="active">{{ $pageNum }}</span>
             {{ else }}
-                <a href="{{ .URL }}">{{ .PageNumber }}</a>
+                <a href="{{ .URL }}">{{ $pageNum }}</a>
             {{ end }}
+        {{ else if or
+            (eq $pageNum (sub $current 2))
+            (eq $pageNum (add $current 2))
+        }}
+            <span class="ellipsis">...</span>
         {{ end }}
+    {{ end }}
 
-        {{ if $p.HasNext }}
-            <a href="{{ $p.Next.URL }}">Next &rarr;</a>
-        {{ end }}
-    </nav>
+    {{ if $p.HasNext }}
+        <a href="{{ $p.Next.URL }}">&rarr;</a>
+    {{ end }}
+</nav>
 {{ end }}
 

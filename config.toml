@@ -15,7 +15,8 @@ baseurl = "https://8amiul.github.io"
     mediatype = "application/rss"
     baseName = "rss"
 
-
+[pagination]
+  pagerSize = 5
 
 
 [menus]

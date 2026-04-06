@@ -1,3 +1,6 @@
+{{ if eq .RelPermalink "/" }}
+	{{- partial "new-updates.html" . -}}
+{{ end }}
 <nav class="navbar">
 	<span class="header-title">{{ .Site.Title }}</span>
 	<ul class="link-list">

@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Recent Exams"
 date: 2025-08-07T00:13:55+06:00
-draft: false
+draft: true
 tags: ["daily-things", "my-thoughts"]
 ---
 

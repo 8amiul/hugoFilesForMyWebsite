@@ -1,7 +1,7 @@
 ---
 title: "Wonderful Day"
 date: 2025-05-21T16:37:49+06:00
-draft: false
+draft: true
 tags: ["daily-things"]
 ---
 It is a wonderful day for me. It’s raining and rain reminds me of my childhood. I still remember that I used to play video games on my uncle’s computer on rainy days. It’s not like I missed school because of rain. My luck wasn’t so great that time. I would pray for a rain fall so that I could skip school but sadly It had always rained when I was about to return home. If you are from Dhaka then you may know that sometimes Dhaka becomes that nice city from Italy called Venice.

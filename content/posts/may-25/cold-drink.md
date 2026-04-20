@@ -1,7 +1,7 @@
 ---
 title: "Did I have a cold drink that day?"
 date: 2025-05-10T14:27:39+06:00
-draft: false
+draft: true
 tags: ["daily-things", "my-thoughts"]
 ---
 

@@ -12,6 +12,5 @@ However, despite everything, I must be grateful for one thing which is that I ju
 What special happened this Eid? I just saw how everyone loves and respects us, Alhamdulillah. May Allah love them the way they loved us. 
 
 Got salami this year. Getting salami is fun but I never liked to get salami that exceeds a certain amount. Bigger note means bigger guilt to me. If the salami is too large in amount then I feel like I just submitted the fact that how low I laid to grab someone's money for no specific reason and by holding the event of eid as a basis.
-Moreover, asking for salami seems like a traditional, event specific way of begging to me because I do not have the habit of asking money from any other person than my parents. However, that's my personal opinion and no offense towards anyone. I've seen kids cursing elders silently or backbiting, if they do not provide salami or the amount that might not meet their expectations. Expectation is fine, people keep expectations from those who are capable of giving it. But we are no one to control their wishes and whether they are to give it or not.
 
 That was it I hope. Everyday is a new lesson and every lesson is a new way of living the life. Eid Mubarak!

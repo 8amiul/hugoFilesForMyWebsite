@@ -1,7 +1,7 @@
 ---
 title: "Gaming on Linux"
 date: 2025-04-22T18:42:48+06:00
-draft: false
+draft: true
 tags: ["gaming", "Linux"]
 ---
 

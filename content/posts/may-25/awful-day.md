@@ -1,7 +1,7 @@
 ---
 title: "Awful Day"
 date: 2025-05-29T14:40:18+06:00
-draft: false
+draft: true
 tags: ["daily-things"]
 ---
 

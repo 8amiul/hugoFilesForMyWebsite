@@ -49,11 +49,6 @@ Now you can play music without any ads and yes unlimited skipping songs.
 
 Use [SpotX](https://github.com/SpotX-Official/SpotX). It patches the original Spotify windows app and makes it working with premium features. Installation is pretty straightforward. Just run the `install.bat` or input that command in your powershell. 
 
-{{< rawhtml >}}
-    <img style="width: 500px;" src="https://camo.githubusercontent.com/42d94a270485c8c1c1879593b51ea18900ccc5c455d29f53a312ec493b023384/68747470733a2f2f73706f74782d6f6666696369616c2e6769746875622e696f2f696d616765732f6c6f676f732f6c6f676f2e706e67" alt="[SpotX]" title="SpotX">
-{{< /rawhtml >}}
-
-
 # Audio Ripping
 ### Soulseek
 
@@ -100,10 +95,6 @@ It's the music player I am using currently. From my perspective it's the best fr
 ### Spotube
 It's an amazing app where you can stream music by connecting your spotify account. It can scrape all your playlists and spotify information. Sadly it has some issues such as slow streaming and sometimes it fails to load the account and thus make the app unusable. Unfortunately this didn't work for me but for most people it works flawlessly. I found a better alternative so I didn't bother fixing it. [Download Spotube](https://spotube.krtirtho.dev/) | [Github Repo](https://github.com/KRTirtho/spotube)
 
-{{< rawhtml >}}
-    <img  src="https://raw.githubusercontent.com/KRTirtho/spotube/master/assets/spotube_banner.png" style="width: 200px;">
-{{< /rawhtml >}}
-
 ### Metrolist
 
 It's an app that can sync your youtube music profile. It's open source and has a nice UI. I will suggest you to use it if you have playlists on YouTube Music. It also allows you to download songs for offline playback, background playback, lyrics support and many other features. It's freaking underrated I'll say. [Download Metrolist](https://github.com/mostafaalagamy/Metrolist/releases)
@@ -133,18 +124,8 @@ PipePipe is a newer version of NewPipe. NewPipe was extraordinary but sadly with
 
 With [Revanced](https://revanced.app/) you can patch many applications, it's not only limited to YouTube. Download this app and download the suggested YouTube Music app version by the app. Then simply patch the YouTube Music using Revanced. It's a must use tool if you hate ads.
 
-{{< rawhtml >}}
-    <img  src="https://revanced.app/logo.svg" style="width: 200px;">
-{{< /rawhtml >}}
 
 # Music Streaming Sites
-### spotfy.one
-
-It's an alternative to spotify but it's a web app. You can create an account on it to save your playlists and data. It doesn't need an account to play songs and it's add free. [Visit spotfy.one](https://spotfy.one/)
-
-{{< rawhtml >}}
-    <img  src="https://spotfy.one/storage/branding_media/WoUyZzhnyIzXPkRhKqUW5vKEVxoV1RqvjdQ6k6G7.png" style="width: 200px;">
-{{< /rawhtml >}}
 
 ### beatbump.io
 

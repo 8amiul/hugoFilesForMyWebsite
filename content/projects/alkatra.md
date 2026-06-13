@@ -1,6 +1,6 @@
 ---
 title: "Alkatra"
-videoLink: "null"
+videoLink: "https://github.com/8amiul/Alkatra"
 description: "An ESP32 based music player device"
 weight: 1
 ---

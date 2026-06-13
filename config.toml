@@ -5,7 +5,7 @@ theme = 'mytheme'
 baseurl = "https://8amiul.github.io"
 
 [params]
-    favAlbum.title = "\"Moonlight\" - Stereo | Castlebeat"
+    favAlbum.title = "\"Let it out\" - Sweet Obsession | Hydromag"
     favAlbum.cover = "/images/music-album.jpg"
     author = "8amiul"
 

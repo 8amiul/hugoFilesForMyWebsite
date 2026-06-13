@@ -12,7 +12,6 @@ These are my bookmarks in browser!
 - https://bendodson.com/projects/itunes-artwork-finder/index.html
  
 # FTP Servers
-- http://cdn.roarmediazone.com/
 - http://circleftp.net/
 - http://fs.ebox.live/
 - http://crazyctg.com/
@@ -109,7 +108,12 @@ These are my bookmarks in browser!
 - https://portswigger.net/web-security
 - https://github.com/sundowndev/hacker-roadmap
 - https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
- 
+- https://www.r57shell.net/index.php
+- https://github.com/b374k/b374k
+- https://github.com/flozz/p0wny-shell
+- https://gchq.github.io/CyberChef/
+- https://pwn.college/
+
 # PDFs
 - https://libgen.st/
 - https://oceanofpdf.com/
@@ -226,3 +230,13 @@ These are my bookmarks in browser!
 - https://open.spotify.com/
 - https://www.photopea.com/
 - https://monkeytype.com/
+
+# [UPDATE] 13 Jun 2026
+
+- https://flukeout.github.io/
+- https://missing.csail.mit.edu/
+- https://csapp.cs.cmu.edu/3e/home.html
+- https://hashes.com/en/tools/hash_identifier
+- https://sites.google.com/view/eeelibrary
+- https://regexlearn.com/learn/regex101
+- https://www.yourworldoftext.com/

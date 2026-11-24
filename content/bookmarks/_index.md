@@ -240,3 +240,11 @@ These are my bookmarks in browser!
 - https://sites.google.com/view/eeelibrary
 - https://regexlearn.com/learn/regex101
 - https://www.yourworldoftext.com/
+
+# [UPDATE] 24 Nov 2026
+
+- https://platinmods.com/
+- https://morphe.software/
+- https://whos-zycher.github.io/opsec-guide/
+- https://freedium-mirror.cfd/
+- https://www.removepaywall.com/

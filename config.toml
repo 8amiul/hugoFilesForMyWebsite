@@ -1,11 +1,11 @@
 languageCode = 'en-us'
 title = "8amiul's Webpage"
-description = "Samiul Islam | 19yo from Bangladesh, who likes tech, minimalism, music, video games & many other shit"
+description = "Samiul Islam | 19yo from Bangladesh, who likes tech, minimalism, music, video games & yeah that is it!"
 theme = 'mytheme'
 baseurl = "https://8amiul.github.io"
 
 [params]
-    favAlbum.title = "\"Let it out\" - Sweet Obsession | Hydromag"
+    favAlbum.title = "\"Moonlight on the River\" - The Old Dog | Mac DeMarco"
     favAlbum.cover = "/images/music-album.jpg"
     author = "8amiul"
 
